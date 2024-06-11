@@ -48,4 +48,3 @@ SmolChain is an open-source project, and we welcome contributions from the commu
 
 ## License
 SmolChain is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
