@@ -1,1 +1,1 @@
-from smolchain.llm.openai.openai_llm import OpenAILLM
+from smolchain.llm.openai_llm import OpenAILLM
