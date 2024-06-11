@@ -2,7 +2,7 @@
 Smol replacement for LangChain
 
 ## Preface
-LangChain, as we all know, is touted as a powerful tool for developing large language model applications. However, it is not the most efficient tool for small projects. In reality, LangChain isn't a library; it's a collection of demos held together by duct tape, strings, and prayers. This is where SmolChain comes in. SmolChain is a lightweight, easy-to-use, and efficient alternative to LangChain. It's designed for small projects and is perfect for beginners who don't want to wrestle with the monstrosity of LangChain.
+LangChain, as we all know, is touted as a powerful tool for developing large language model applications. However, it is not the most efficient tool for small projects. In reality, LangChain isn't a library; it's a collection of demos held together by duct tape, f-strings, and prayers. This is where SmolChain comes in. SmolChain is a lightweight, easy-to-use, and efficient alternative to LangChain. It's designed for small projects and is perfect for beginners who don't want to wrestle with the monstrosity of LangChain.
 
 ## Installation
 Currently, SmolChain is not a pip package yet, but you can clone the repository and play around with it. To clone the repository, run the following command:
